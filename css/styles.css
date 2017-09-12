@@ -1,0 +1,12 @@
+#description-showing, #description-showing2, #description-showing3, #description-showing4, #description-showing5 {
+  display: none;
+}
+
+.clickable, .clickable2, .clickable3, .clickable4, .clickable5 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable, .clickable2, .clickable3, .clickable4, .clickable5: hover {
+  text-decoration: underline;
+}
